@@ -1,7 +1,7 @@
-Stock Price Prediction using LSTM
+### Stock Price Prediction using LSTM
 This repository contains a Python script that utilizes a Long Short-Term Memory (LSTM) model for predicting the stock price of Reliance Industries Limited (RELIANCE.NS). The script demonstrates how to preprocess the data, build an LSTM model, and evaluate its performance. Below are the details of the code and its functionality:
 
-Libraries Used
+##Libraries Used
 os: Operating system library for file operations.
 pandas: Data manipulation library.
 numpy: Numerical operations library.
@@ -11,7 +11,7 @@ matplotlib: Data visualization library.
 scikit-learn: Machine learning library for evaluation metrics and data preprocessing.
 tensorflow: Deep learning library.
 yfinance: Library for downloading historical stock data.
-Getting Started
+##Getting Started
 Import the necessary libraries.
 Download historical stock data for Reliance Industries Limited (RELIANCE.NS) using yfinance.
 Data exploration and preprocessing.
